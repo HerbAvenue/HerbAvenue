@@ -1,6 +1,6 @@
 Hey! My name is Chris and I'm currently building a coding portfolio to enter into the software/web development field.
 
-- 🔭 I’m currently working on a [License Expiry Tracker](License.Petti.Dev), and a shift trade portal (WIP) for companies that utilize shift work.
+- 🔭 I’m currently working on a [License Expiry Tracker](https://license.petti.dev/), and a shift trade portal (WIP) for companies that utilize shift work.
 - 🌱 I’m currently learning Python, JavaScript, and Flask for web applications.
 
 Feel free to send comments/tips/suggestions to me at chris@petti.dev 😄

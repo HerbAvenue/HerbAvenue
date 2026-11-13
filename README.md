@@ -30,12 +30,12 @@
 | Project | Honest Assessment |
 |---|---|
 | Workplace Shift Trade Portal | Still a WIP. Claude could finish it over lunch. |
-| [License/Membership Expiry Tracker](https://license.petti.dev/) | Still tracks expiry dates. Hasn't noticed its own. |
-| [TypeScript Deck of Cards Simulator](https://cards.petti.dev/) | Deals cards. Not impressive ones. |
-| [React Movie Database](https://movies.petti.dev/) | Still running, like a sequel nobody asked for. |
-| ["Ethereal Clouds" Weather Tracker](https://weather.petti.dev/) | Forecast: underwhelming. |
+| [License/Membership Expiry Tracker](https://github.com/HerbAvenue/LicenseExpiryManager) | Tracked expiry dates. Then its Heroku plan expired. |
+| [TypeScript Deck of Cards Simulator](https://github.com/HerbAvenue/TS-DeckOfCards) | Deals cards. Not impressive ones. |
+| [React Movie Database](https://github.com/HerbAvenue/ts-react-moviedb) | Cancelled after one season. |
+| ["Ethereal Clouds" Weather Tracker](https://github.com/HerbAvenue/EtherealClouds) | Forecast: underwhelming. |
 
-These are all still live. I was proud of them at the time, but Claude can now build any of them before my coffee gets cold, so please adjust your expectations. Bigger things are coming.
+The code is all still here. The live demos died when I stopped paying Heroku, which tells you how much I valued them. I was proud of these at the time, but Claude can now build any of them before my coffee gets cold, so please adjust your expectations. Bigger things are coming.
 
 </details>
 

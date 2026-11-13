@@ -1,14 +1,59 @@
-Hey! My name is Chris and I *was* building a coding portfolio to enter into the software/web development field.
+<h1 align="center">Hey, I'm Chris 👋</h1>
 
-- 🔭 Projects I was working on:
-   - ~~Workplace Shift Trade Portal (WIP)~~
-   - ~~License/Membership Expiry Tracker~~
-   - ~~Typescript Deck of Cards Simulator~~
-   - ~~React Movie Database~~
-   - ~~"Ethereal Clouds" Weather Tracker~~
+<p align="center"><i>Aspiring software developer. Former aspiring software developer. It's complicated.</i></p>
 
-   I've taken these down. I was proud of them at the time, but Claude can now build any of them before my coffee gets cold, so they're not exactly portfolio material anymore. Bigger things are coming.
+<p align="center">
+  <img src="https://img.shields.io/badge/manual%20coding-deprecated-red?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Claude-doing%20everything-D97757?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/status-open%20to%20opportunities-brightgreen?style=for-the-badge" />
+</p>
 
-- 🌱 I was learning Python, JavaScript/Typescript, and Flask for web applications. Then AI made it pointless. Love that for me. Now I'm learning to plan, direct, and ship projects with Claude. Godot game development is still on the list, just with a lot more help.
+---
 
-Feel free to send comments/tips/suggestions to me at chris@petti.dev 😄 (Claude will probably help me reply.)
+## 📉 Career Changelog
+
+```diff
+- Learning Python, JavaScript/TypeScript, and Flask
+- Building a portfolio one project at a time
+- Planning to study Godot for game development
++ Discovered Claude
++ Learning to plan, direct, and ship projects with Claude
++ Still studying Godot, just with a lot more help
+```
+
+## 🪦 Projects
+
+<details>
+<summary><b>In loving memory of my portfolio</b> (click if you must)</summary>
+<br>
+
+| Project | Cause of Death |
+|---|---|
+| ~~Workplace Shift Trade Portal~~ | Died as it lived: a WIP |
+| ~~License/Membership Expiry Tracker~~ | Ironically, it expired |
+| ~~TypeScript Deck of Cards Simulator~~ | Folded |
+| ~~React Movie Database~~ | The credits have rolled |
+| ~~"Ethereal Clouds" Weather Tracker~~ | Evaporated |
+
+I was proud of these at the time, but Claude can now build any of them before my coffee gets cold. Bigger things are coming.
+
+</details>
+
+## ⚙️ Current Workflow
+
+```bash
+$ claude "build something cool"
+$ claude "no, cooler"
+$ claude "perfect. now fix the thing you just broke"
+$ git push  # Co-Authored-By: Claude
+```
+
+## 📫 Contact
+
+Feel free to send comments/tips/suggestions to **chris@petti.dev** 😄
+
+<sub>Replies may be AI-assisted. Okay, they will be.</sub>
+
+---
+
+<p align="center"><sub>This README was also written by Claude. Obviously.</sub></p>

@@ -21,21 +21,21 @@
 + Still studying Godot, just with a lot more help
 ```
 
-## 🪦 Projects
+## 🗃️ Projects
 
 <details>
-<summary><b>In loving memory of my portfolio</b> (click if you must)</summary>
+<summary><b>My portfolio, still up for some reason</b> (click if you must)</summary>
 <br>
 
-| Project | Cause of Death |
+| Project | Honest Assessment |
 |---|---|
-| ~~Workplace Shift Trade Portal~~ | Died as it lived: a WIP |
-| ~~License/Membership Expiry Tracker~~ | Ironically, it expired |
-| ~~TypeScript Deck of Cards Simulator~~ | Folded |
-| ~~React Movie Database~~ | The credits have rolled |
-| ~~"Ethereal Clouds" Weather Tracker~~ | Evaporated |
+| Workplace Shift Trade Portal | Still a WIP. Claude could finish it over lunch. |
+| [License/Membership Expiry Tracker](https://license.petti.dev/) | Still tracks expiry dates. Hasn't noticed its own. |
+| [TypeScript Deck of Cards Simulator](https://cards.petti.dev/) | Deals cards. Not impressive ones. |
+| [React Movie Database](https://movies.petti.dev/) | Still running, like a sequel nobody asked for. |
+| ["Ethereal Clouds" Weather Tracker](https://weather.petti.dev/) | Forecast: underwhelming. |
 
-I was proud of these at the time, but Claude can now build any of them before my coffee gets cold. Bigger things are coming.
+These are all still live. I was proud of them at the time, but Claude can now build any of them before my coffee gets cold, so please adjust your expectations. Bigger things are coming.
 
 </details>
 
